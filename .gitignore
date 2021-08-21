@@ -1,1 +1,5 @@
+# development environments
+.vs/
+
+# locally installed packages
 node_modules/
